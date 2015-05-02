@@ -1,0 +1,6 @@
+Title: Be Polite When Using Numba
+Date: 2015-10-29 14:35
+Category: Programming
+Tags: python, numba
+Slug: be_polite_when_using_numba
+Summary: A snippet that uses an identy decorator to avoid dependency hell.

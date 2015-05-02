@@ -1,0 +1,28 @@
+Title: What If?
+Date: 2014-11-11 12:02
+Category: Life
+Tags: cancer
+Slug: what-if
+Summary: Never stop asking the question, "what if?"
+
+
+When I was nineteen, I was diagnosed with a rare and often-terminal cancer called Chordoma. Following diagnosis, a compulsive need to understand drove me to learn everything I could about this relentless disease, including the statistics. It was a form of emotional self-regulation. If I was onboard a soon-to-crash plane, I'd want to be in the cockpit. Even if I was completely impotent, understanding what is happening relieves a very specific type of anxiety for me. It's not an uncommon disposition.
+
+Unfortunately, knowledge isn't *always* power; sometimes, it can be a self-inflicted wound. In a sterile, professional environment statistics are useful abstractions. In the context of your affliction, they can be concrete sucker punches. Rationality &mdash; in both the informal and formal senses of the word &mdash; is difficult to maintain in the face of things like your death or the prospect of more pain. I would mishandle the things I read like, "the median life expectancy is seven years." (Note to the newly diagnosed Chordoma patients: that statistic is not true anymore!). That's a statement about a *distribution*. There are people who live longer than seven years and there are people who are less lucky; but, there is a tendency to view that statement through a fatalistic lens &mdash; "I'll be dead in seven years." What was a means of objectively summarizing a distribution becomes an expiration date. 
+
+At the same time, perennial checkup MRIs serve as all-too-frequent reminders of malignancy. Immediately following a clean MRI, there is a sense of safety &mdash; almost like you were granted a stay of execution. But, the feeling doesn't last, and life becomes limited to that window of time between now and your next MRI. And, this window calcifies each time you learn that a stranger &mdash; who over the years became both a compatriot and a friend &mdash; has died from their disease. 
+
+The MRI window and the expiration date perspectives are two different instantiations of the same problem &mdash; future blindness. This blindness inhibits you from asking the good, big, and *necessary* "what if?" questions. What if I were to live until I was 102 &mdash; what would I want my life to look like? What if I met the girl or guy of my dreams? What if I traveled around the world? What if I could build or do something fantastic? What if I found my perfect job? These are the questions that sustain and drive us. In their absence, we wither in a very real way. 
+
+Admittedly, this is not new advice. In fact, advice of this species is so common, it has been codified into a cliché: "don't let cancer define you." However, at least for me, "don't let cancer define you" never resonated. Through a community of Chordoma survivors, I continuously had truly kind and compassionate people imploring me to adopt this aphorism or one of its variants. Yet, I didn't. I think I always responded mentally with a "yea, but" answer. "Yea, but there is a very real and frighteningly high probability that I will die from this disease." This statement is undeniably true, but its use as a retort is maladaptive.
+ 
+In order to come to terms with Chordoma, I think it is necessary to admit its often-terminal reality. At the same time, you have to be careful &mdash; it is very easy to cling to the admission and carry it as a fatalistic shield. The thought process becomes: if I recognize Chordoma as an inevitability, I'll be prepared when it comes back. Except, of the friends I have known who had recurrences, I'm confident in saying: you'll never actually be prepared. Bracing for an incoming punch doesn't make it hurt less. And, if it doesn't come back, you will have accidentally wasted your time and life, the very thing that you desperately wanted more of!
+
+I made the later form of mistake &mdash; and, experienced the accompanying regret. I ignored so much good advice because none of it ever resonated with me. Following something devastating like cancer, you have to relearn how to live. For some people, that happens almost instantaneously and effortlessly. Other people &mdash; like me &mdash; learn more slowly. Still, I think having all the good advice rattling around in my mind served as a reservoir of knowledge to be drawn from...eventually. That's why I've written this post. 
+
+If "don't let cancer define you" resonates with you, great &mdash; use that! But, if it doesn't, maybe my reinterpretation will. If I could have given myself advice ten years ago, I would have screamed: never stop asking, "*what if*?" Never let that window form, and, if you already have it, demolish it in any way you can. Never grow blind to the possibility of your future. In some ways, we are all ruled by randomness; but, that doesn't mean we are powerless. Make commitments that extend well into the future. Ask "what if" questions that require a lifetime. You still may die before any of them are realized, but as cliché as it sounds, you will have lived. 
+
+---
+
+*A patient's question on the [Facebook Chordoma Support](https://www.facebook.com/groups/ChordomaSurvivorsPrivate/) group inspired me to write this post. It's an idea I have thought about a lot over the years, and it has evolved...slowly. It may be about my experience with Chordoma, but it applies to anyone with a disease so I've shared it here. If you want to know more about Chordoma, check out the [Chordoma Foundation](http://www.chordomafoundation.org/). And, if you are feeling generous, please donate!*
+

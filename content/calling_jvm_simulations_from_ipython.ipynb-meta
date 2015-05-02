@@ -1,0 +1,6 @@
+Title: Calling NetLogo from IPython
+Date: 2015-10-29 10:15
+Category: Programming
+Tags: netlogo, abm, css
+Slug: calling_jvm_simulations_from_ipython
+Summary: A demonstration of pyjnius used to call NetLogo.

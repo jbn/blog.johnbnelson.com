@@ -1,0 +1,1 @@
+This is the content repository for [my blog](http://blog.johnbnelson.com). I am using [Pelican](http://blog.getpelican.com/) with a few useful plugins. Partially, this is a backup of my posts. But mostly, it exists so I can link to my IPython notebooks. 
